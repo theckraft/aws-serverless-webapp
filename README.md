@@ -1,2 +1,3 @@
 # aws-serverless-webapp
-following the aws-serverless-workshops walkthrough
+
+following  [aws-serverless-workshops walkthrough](https://github.com/aws-samples/aws-serverless-workshops)
